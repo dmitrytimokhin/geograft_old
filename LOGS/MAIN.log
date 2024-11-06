@@ -1,0 +1,20 @@
+06/11/2024 18:47:52 - [INFO] -  MAIN - (main.py).main(54) - Started!
+06/11/2024 18:47:53 - [DEBUG] -  MAIN - (main.py).start_bot(40) - The Bot is running!
+06/11/2024 18:48:18 - [DEBUG] -  MAIN - (base_handlers.py).cmd_start(20) - The User 247076124 pressed start
+06/11/2024 18:48:26 - [DEBUG] -  MAIN - (base_handlers.py).cmd_start(20) - The User 247076124 pressed start
+06/11/2024 18:51:11 - [DEBUG] -  MAIN - (main.py).stop_bot(48) - The Bot is stopped!
+06/11/2024 18:51:18 - [INFO] -  MAIN - (main.py).main(54) - Started!
+06/11/2024 18:51:18 - [DEBUG] -  MAIN - (main.py).start_bot(40) - The Bot is running!
+06/11/2024 18:51:21 - [DEBUG] -  MAIN - (base_handlers.py).cmd_start(20) - The User 247076124 pressed start
+06/11/2024 18:52:01 - [DEBUG] -  MAIN - (main.py).stop_bot(48) - The Bot is stopped!
+06/11/2024 18:52:08 - [INFO] -  MAIN - (main.py).main(54) - Started!
+06/11/2024 18:52:08 - [DEBUG] -  MAIN - (main.py).start_bot(40) - The Bot is running!
+06/11/2024 18:52:10 - [DEBUG] -  MAIN - (base_handlers.py).cmd_start(20) - The User 247076124 pressed start
+06/11/2024 18:56:10 - [DEBUG] -  MAIN - (main.py).stop_bot(48) - The Bot is stopped!
+06/11/2024 18:56:15 - [INFO] -  MAIN - (main.py).main(54) - Started!
+06/11/2024 18:56:16 - [DEBUG] -  MAIN - (main.py).start_bot(40) - The Bot is running!
+06/11/2024 18:56:32 - [DEBUG] -  MAIN - (base_handlers.py).cmd_start(18) - The User 247076124 pressed start
+06/11/2024 18:57:33 - [DEBUG] -  MAIN - (main.py).stop_bot(48) - The Bot is stopped!
+06/11/2024 18:57:39 - [INFO] -  MAIN - (main.py).main(54) - Started!
+06/11/2024 18:57:40 - [DEBUG] -  MAIN - (main.py).start_bot(40) - The Bot is running!
+06/11/2024 18:57:42 - [DEBUG] -  MAIN - (base_handlers.py).cmd_start(18) - The User 247076124 pressed start
