@@ -1,6 +1,7 @@
 .DS_Store
-test_requests.ipynb
-fill_tables.ipynb
+.env
+.idea/
+.LOGS/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
